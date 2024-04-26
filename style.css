@@ -21,6 +21,10 @@
     background-color: #f9f4ef;
     
 }
+.responsive {
+    width: 35% ;
+    height: auto ;
+}
 
 h1 {
     color: #020826;
